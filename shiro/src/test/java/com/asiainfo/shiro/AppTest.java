@@ -107,5 +107,6 @@ public class AppTest
     public static void main(String[] args) {
     	AppTest appTest = new AppTest("");
     	appTest.testJDBCRealm();
+    	//测试github
 	}
 }
